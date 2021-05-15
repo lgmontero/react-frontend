@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.a {
+  color: rgb(54, 108, 179)!important;
+  font-weight: 600 !important;
+  padding-bottom: 5px!important;
+  padding-top: 10px!important;
+  padding-left: 10px!important;
+
+
+}
+
